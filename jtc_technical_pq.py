@@ -1,7 +1,7 @@
 # jtc_technical_pq.py
 
 def jtc_technical():
-    #print()
+    print('Hello World')
     pass
     
 jtc_technical()
